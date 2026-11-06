@@ -5,6 +5,7 @@
 **Every deadline is a pumpkin. The longer you procrastinate, the more it rots.**
 
 [![Live Demo](https://img.shields.io/badge/demo-play%20now-f28c28?style=for-the-badge&logo=githubpages&logoColor=white)](https://aivietnam-aio-felixdoit.github.io/rotkin/)
+[![Watch on YouTube](https://img.shields.io/badge/video-watch%20demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/g2YCOdebeNg)
 [![Pumpkin Playground](https://img.shields.io/badge/Pumpkin%20Playground-ACM%20Long%20Beach-7a3b05?style=for-the-badge)](https://pumpkin-playground.devpost.com/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,6 +36,10 @@ Rotkin is a procrastination meter that turns your to-do list into a pumpkin patc
 - 💾 Saves in your browser (localStorage), works on phone and desktop, no sign-up
 
 ![Every pumpkin rotted after skipping ahead with the Time Machine](docs/rotting.png)
+
+## Video demo
+
+[![Rotkin video demo on YouTube](https://img.youtube.com/vi/g2YCOdebeNg/hqdefault.jpg)](https://youtu.be/g2YCOdebeNg)
 
 ## Run it
 
